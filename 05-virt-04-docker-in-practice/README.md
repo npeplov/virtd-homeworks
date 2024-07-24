@@ -81,8 +81,14 @@ See 'snap info docker' for additional versions.
 4. Зайдите на сайт проверки http подключений, например(или аналогичный): `https://check-host.net/check-http` и запустите проверку вашего сервиса `http://<внешний_IP-адрес_вашей_ВМ>:8090`. Таким образом трафик будет направлен в ingress-proxy.
 5. (Необязательная часть) Дополнительно настройте remote ssh context к вашему серверу. Отобразите список контекстов и результат удаленного выполнения `docker ps -a`
 6. В качестве ответа повторите sql-запрос и приложите скриншот с данного сервера, bash-скрипт и ссылку на fork-репозиторий.
-fork: https://github.com/npeplov/shvirtd-example-python/blob/main/README.md
-screenshot:
+
+#### fork-репозиторий: 
+https://github.com/npeplov/shvirtd-example-python
+
+#### bash-скрипт
+https://github.com/npeplov/shvirtd-example-python/blob/main/script.sh
+
+#### screenshot:
 <img src="task4.png">
 
 ## Задача 5 (\*)
