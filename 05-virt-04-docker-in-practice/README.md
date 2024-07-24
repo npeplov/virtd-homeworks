@@ -71,7 +71,7 @@ See 'snap info docker' for additional versions.
 
 4. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 
-<img src="task3-2.png">
+<img src="task3-3.png">
 
 ## Задача 4
 
@@ -82,13 +82,16 @@ See 'snap info docker' for additional versions.
 5. (Необязательная часть) Дополнительно настройте remote ssh context к вашему серверу. Отобразите список контекстов и результат удаленного выполнения `docker ps -a`
 6. В качестве ответа повторите sql-запрос и приложите скриншот с данного сервера, bash-скрипт и ссылку на fork-репозиторий.
 
-#### fork-репозиторий: 
+#### fork-репозиторий:
+
 https://github.com/npeplov/shvirtd-example-python
 
 #### bash-скрипт
+
 https://github.com/npeplov/shvirtd-example-python/blob/main/script.sh
 
 #### screenshot:
+
 <img src="task4.png">
 
 ## Задача 5 (\*)
